@@ -13,7 +13,7 @@ Visualizations: Utilize a wide range of visualizations, including charts, graphs
 ## Dataset
 The project utilizes an open-source dataset containing Olympics data from 1900 to 2020. The dataset includes information such as sports, athletes, countries, events, medals, and more.
 
-##Acknowledgments
+## Acknowledgments
 I would like to express my appreciation to the Power BI community for their valuable resources and support in learning and implementing Power BI effectively. Their contributions have greatly contributed to the development of this Olympics Analysis Dashboard.
 
 ## Disclaimer
